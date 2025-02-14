@@ -3,7 +3,6 @@ RAG_LLM = 'gpt-3.5-turbo'
 BATCH_SIZE = 256
 DENSE_DIM_NUMBER = 768
 DENSE_VECTOR_MODEL = "intfloat/e5-base-v2"
-RERANKER_MODEL = "colbert-ir/colbertv2.0"
 INDEX_POOL_THREADS = 6
 INDEX_NAME = "tmdb-films"
 INDEX_REGION = "us-east-1"
